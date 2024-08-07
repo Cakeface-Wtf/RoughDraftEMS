@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NR9c9x32UIc=",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\RoughDraftEMS\\src\\EMS.Client\\EMS.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Corey.Ledford\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Corey.Ledford\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

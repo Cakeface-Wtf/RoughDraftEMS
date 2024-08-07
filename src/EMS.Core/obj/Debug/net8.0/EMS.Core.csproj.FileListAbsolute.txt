@@ -1,0 +1,12 @@
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.AssemblyInfoInputs.cache
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.AssemblyInfo.cs
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.csproj.CoreCompileInputs.cache
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.sourcelink.json
+C:\Workspace\RoughDraftEMS\src\EMS.Core\bin\Debug\net8.0\EMS.Core.deps.json
+C:\Workspace\RoughDraftEMS\src\EMS.Core\bin\Debug\net8.0\EMS.Core.dll
+C:\Workspace\RoughDraftEMS\src\EMS.Core\bin\Debug\net8.0\EMS.Core.pdb
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.dll
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\refint\EMS.Core.dll
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\EMS.Core.pdb
+C:\Workspace\RoughDraftEMS\src\EMS.Core\obj\Debug\net8.0\ref\EMS.Core.dll
